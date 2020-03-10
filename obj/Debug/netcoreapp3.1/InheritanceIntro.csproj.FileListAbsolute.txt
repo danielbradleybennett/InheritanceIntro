@@ -1,0 +1,10 @@
+/Users/danielbennett/workspace/csharp/exercises/InheritanceIntro/bin/Debug/netcoreapp3.1/InheritanceIntro.deps.json
+/Users/danielbennett/workspace/csharp/exercises/InheritanceIntro/bin/Debug/netcoreapp3.1/InheritanceIntro.runtimeconfig.json
+/Users/danielbennett/workspace/csharp/exercises/InheritanceIntro/bin/Debug/netcoreapp3.1/InheritanceIntro.runtimeconfig.dev.json
+/Users/danielbennett/workspace/csharp/exercises/InheritanceIntro/bin/Debug/netcoreapp3.1/InheritanceIntro.dll
+/Users/danielbennett/workspace/csharp/exercises/InheritanceIntro/bin/Debug/netcoreapp3.1/InheritanceIntro.pdb
+/Users/danielbennett/workspace/csharp/exercises/InheritanceIntro/obj/Debug/netcoreapp3.1/InheritanceIntro.csprojAssemblyReference.cache
+/Users/danielbennett/workspace/csharp/exercises/InheritanceIntro/obj/Debug/netcoreapp3.1/InheritanceIntro.AssemblyInfoInputs.cache
+/Users/danielbennett/workspace/csharp/exercises/InheritanceIntro/obj/Debug/netcoreapp3.1/InheritanceIntro.AssemblyInfo.cs
+/Users/danielbennett/workspace/csharp/exercises/InheritanceIntro/obj/Debug/netcoreapp3.1/InheritanceIntro.dll
+/Users/danielbennett/workspace/csharp/exercises/InheritanceIntro/obj/Debug/netcoreapp3.1/InheritanceIntro.pdb
